@@ -1,0 +1,52 @@
+body{
+
+    margin: 0px;
+    padding: 0px;
+    background: #f1f1f1;
+    
+}
+
+
+
+.card-container{
+
+    width: 300px;
+    height: 430px;
+    background: #FFF;
+    border-radius: 6px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 0px 1px 10px 1px #000;
+}
+
+
+.upper-container{
+    height: 150px;
+    background: #7F00FF;
+}
+
+
+.image-container{
+    background: white;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    padding: 1px;
+    transform: translate(100px,100px);
+}
+
+.image-container img{
+    
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+
+.lower-container{
+    height: 280px;
+    background: coral;
+}
+
